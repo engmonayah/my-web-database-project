@@ -1,0 +1,33 @@
+body {
+    background-color: #ffd6e7;
+    color: black;
+    font-family: Arial;
+    margin: 40px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input {
+    margin: 5px;
+}
+
+button {
+    background-color: hotpink;
+    color: black;
+    padding: 5px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+th {
+    background-color: hotpink;
+}
